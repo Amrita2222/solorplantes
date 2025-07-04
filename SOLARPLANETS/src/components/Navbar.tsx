@@ -97,7 +97,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               <button className={`hidden sm:flex items-center space-x-2 px-4 py-2 rounded-xl ${themeColors.hover} transition-all duration-300 ${themeColors.text}`}>
                 <Github className="w-4 h-4" />
                 <span className="hidden lg:inline text-sm font-medium">
-                  <Link href=''>GitHub</Link>
+                  <Link href='https://github.com/Amrita2222/solorplantes'>GitHub</Link>
                 </span>
               </button>
               
